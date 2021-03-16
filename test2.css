@@ -1,0 +1,57 @@
+h3{
+    color: blue
+}
+h2{
+    color: blue
+}
+h1{
+    color: #CCBF00;
+}
+h4{
+    color: blue;
+}
+
+#bd{
+    background-image: linear-gradient(to bottom right, #FF5A00, #FFF707);
+    font-family: Comic Sans MS, cursive, sans-serif;
+    font-size: 15px;
+}
+#bd1{
+    text-align: center;
+}
+.paragraphs{
+    background-image:linear-gradient(to bottom right, #FF0016, #0000BF);
+    border-radius: 20px;
+    border-collapse: collapse;
+    border: solid;
+    border-color: red;
+}
+.link{
+    background-image:linear-gradient(to bottom right, #FF0016, #0000BF);
+    border-radius: 20px;
+    border-collapse: collapse;
+    border: solid;
+    border-color: red;
+}
+.link:hover{
+    background-image:linear-gradient(to bottom right, #5cc3ff, #0060bf);
+}
+#title{
+    text-align: center;
+}
+#YTimg{
+    width: 200px;
+    height: 100px;
+}
+#bd2{
+    background-image: linear-gradient(to bottom right, #FF5A00, #FFF707);
+    font-family: Comic Sans MS, cursive, sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+#bd3{
+    background-image: linear-gradient(to bottom right, #FF5A00, #FFF707);
+    font-family: Comic Sans MS, cursive, sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
